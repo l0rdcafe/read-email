@@ -1,0 +1,16 @@
+{
+  "name": "read-email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ismail Arafa <me@l0rdcafe.com> (http://www.l0rdcafe.com)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "imap": "^0.8.19"
+  }
+}
